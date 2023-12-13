@@ -86,3 +86,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Created Rdeux store using UserSlice
 - Implemented Sign out
 - Update Profile
+- User not Login -> Re-direct to login page and vice-versa
+- Add hard coded value into the constants file.
+- Register TMDB Api & create an app & get access token
+- get data from TMDB now playing movie list API
+- Custom hook for Now playing Movies
+- Created movieSlice
+- Update Store with movie data
+- fetch data for trailer video
+- Embedded youtube video and make it auto play and mute 
