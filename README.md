@@ -100,4 +100,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Build movie card
 - TMDB Image CDN URL
 - Create Custom hooks for NowPlaying, Popular, Trending, Upcoming movies
+- Gpt Search page
+- Gpt Search bar
 - 
